@@ -7,3 +7,6 @@ Requiere: ffmpeg y ffprobe instalados (brew install ffmpeg / apt install ffmpeg)
 
 add_thumbnail para videos mp4.
 webm_thumbnail para videos webm, aunque vale para los dos, solo que no esta probado para mp4.
+
+Para codec av1 require:
+sudo apt install ffmpeg mkvtoolnix
